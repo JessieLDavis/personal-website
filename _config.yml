@@ -1,6 +1,6 @@
 layout: sidebar
 style: light
-include: ['_pages']
+# include: ['_pages']
 
 plugins:
   - jekyll-octicons
@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title/
 # github: [metadata]
 
 defaults:
-  -
+  - 
     scope:
       path: "" # an empty string here means all files in the project
       type: "posts"
@@ -28,23 +28,25 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+      # - personal-website
 
 social_media:
-  facebook: rodydavisjr
-  linkedin: rodydavis
-  stackoverflow: 7303311
-  twitter: rodydavis
-  youtube: nodamagefound
+  # facebook: jessiedavis
+  # linkedin: rodydavis
+  # stackoverflow: 7303311
+  twitter: gleibryn
+  # youtube: nodamagefound
 
 topics:
   - name: Flutter
     web_url: https://flutter.io
   
-  - name: iOS
-  - name: Android
-  - name: REST API
-  - name: CI/CD
+  - name: Flare
+    web_url: https://www.2dimensions.com/
+  
+  - name: Animation
+  - name: VR/AR
+  - name: Gaming
 
   # - name: Flutter
   #   web_url: https://github.com/topics/flutter

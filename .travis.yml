@@ -30,7 +30,7 @@ script:
   - JEKYLL_GITHUB_TOKEN=$JEKYLL_GITHUB_TOKEN bundle exec jekyll build 
 
 after_success:
-  - firebase deploy --token "$FIREBASE_API_TOKEN" --project website-b7fa0
+  - firebase deploy --token "$FIREBASE_API_TOKEN" --project website-6112f
 
 env:
   global:

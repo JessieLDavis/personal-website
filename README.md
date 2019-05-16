@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/AppleEducate/personal-website.svg?branch=master)](https://travis-ci.org/AppleEducate/personal-website)
+[![Build Status](https://travis-ci.org/JessieLDavis/personal-website.svg?branch=master)](https://travis-ci.org/JessieLDavis/personal-website)
 
 # Get started building your personal website
 
