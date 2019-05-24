@@ -16,5 +16,6 @@ Beware the original website page because - at this moment - the incorrect file i
 I plan to start new projects directly in GitHub to better showcase the creative process while making them. To show my work as my high school math teacher would say.  Hope you find my past enlightning if you choose to peruse it.
 
 See ya soon!
+<img src="/assets/images/rein_heelies.gif" alt="rein heelies" height="50" width="50">
 
 ![](/assets/images/rein_heelies.gif)
