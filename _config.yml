@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 # include: ['_pages']
 
 plugins:
@@ -26,7 +26,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
       # - personal-website
 
