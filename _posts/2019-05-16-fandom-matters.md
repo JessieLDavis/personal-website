@@ -11,7 +11,7 @@ So my brother and friends are trying to get me to watch Rick and Morty and - whi
 
 However this gaping lack of knowledge apparently does not stop me from accidentally making referencial works. 
 
-![](/assets/images/switchers.gif)
+
 
 I made this on my own just wanting to play around with opacity in the Sticknodes Pro app on the iPad. I just thought blue was a collor that would be pleasing to the eye.
 
@@ -20,3 +20,5 @@ Everyone I've shown it to goes "Ah its Mr. Meeseeks!"
 I guess its a good thing? I'll find out once I actually catch up I guess.
 
 See ya soon:)
+
+![](/assets/images/switchers.gif)
